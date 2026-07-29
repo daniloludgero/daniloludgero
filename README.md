@@ -1,4 +1,4 @@
-<img src="./assets/profile.png" width="220" align="right" />
+<img src="./assets/profile2.png" width="220" align="right" />
 
 # Danilo Ludgero
 
