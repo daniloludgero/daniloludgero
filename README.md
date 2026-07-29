@@ -1,4 +1,6 @@
-<img src="./assets/profile2.png" width="220" align="right" />
+<p align="center">
+  <img src="./assets/profile_pixel_forming.gif" width="500" />
+</p>
 
 # Danilo Ludgero
 
