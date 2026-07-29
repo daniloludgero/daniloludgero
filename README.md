@@ -1,6 +1,6 @@
 <img src="./assets/profile.png" width="220" align="right" />
 
-# Danilo Costa
+# Danilo Ludgero
 
 ### AI Systems · Backend · Automation · Document Intelligence
 
